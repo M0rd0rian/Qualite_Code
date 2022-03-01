@@ -1,8 +1,6 @@
 .centrage {text-align:center;}
 
-.menu {
+.copyright {
 font-family: FreeSans;
-padding: 20px;
-background-color: darkcyan;
-color: beige;
+font-size: small;
 }
